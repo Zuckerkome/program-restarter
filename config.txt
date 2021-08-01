@@ -1,0 +1,25 @@
+PATH
+PROCESSNAME
+DELAY
+PRSBUTTONKC
+ACTBUTTONKC
+
+
+-------------------------------------------------------
+Setup instructions in readme.md
+
+Most practical keycodes (in decimal):
+
+
+"PAGE UP" - 33
+"PAGE DOWN" - 34
+"END" - 35
+"HOME" - 36
+"INSERT" - 45
+"DELETE" - 46
+"MOUSE MACRO BUTTON 1" - 5
+"MOUSE MACRO BUTTON 2" - 6
+"ALT" - 18
+"MEDIA - PLAY/PAUSE" - 179
+"MEDIA - NEXT TRACK" - 176
+"MEDIA - PREV TRACK" - 177
